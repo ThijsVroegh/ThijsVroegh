@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thijs Vroegh
-- 👀 I’m interested in applied data science, network analysis, music, and data analytics 
+- 👀 I’m interested in applied data science, digital humanities, network analysis, and music
 - 🌱 I’m currently learning more python and more automated machine learning 
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Thijs Vroegh.
 - 👀 I’m interested in applied data science, digital humanities, psychometric and social network analysis.
-- 🌱 I’m currently learning more python, using git and github, and adding the temporal component in network analysis.
+- 🌱 I’m currently learning more python, using git and github, and adding the temporal component in network analysis for a project.
 
 <!---
 ThijsVroegh/ThijsVroegh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

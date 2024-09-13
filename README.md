@@ -110,6 +110,8 @@
 [![Flow](https://github-readme-stats.vercel.app/api/pin/?username=ThijsVroegh&repo=FlowExperience&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ThijsVroegh/FlowExperience)
 [![Hypnosis](https://github-readme-stats.vercel.app/api/pin/?username=ThijsVroegh&repo=Hypnosis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ThijsVroegh/Hypnosis)
 [![Traits](https://github-readme-stats.vercel.app/api/pin/?username=ThijsVroegh&repo=Network_analysis_of_traits&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ThijsVroegh/Network_analysis_of_traits)
+[![MindWandering](https://github-readme-stats.vercel.app/api/pin/?username=ThijsVroegh&repo=Music_mindwandering&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ThijsVroegh/Music_mindwandering)
+
 
 <p align="left">
   <a href="https://github.com/ThijsVroegh?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>

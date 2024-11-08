@@ -123,12 +123,6 @@
 
 <p align="center">
   <a href="https://github.com/ThijsVroegh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThijsVroegh&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ThijsVroegh">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThijsVroegh&theme=radical" alt="Thijs Vroegh's GitHub Contribution"/>
   </a>
 </p>

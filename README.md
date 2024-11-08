@@ -102,7 +102,7 @@
 * [the American Revolution](https://github.com/h-gear/revolution/tree/main) applying temporal social network analysis and NLP 
 * [a new Jasp module](https://github.com/jasp-stats/jaspProcess) for conditional process modeling 
 * [a computer vision project](https://github.com/DecodingRafael/SIFT) for analyzing and comparing paintings from Raphael with opencv and instance segmentation
-* [a text procesing project](https://github.com/orgs/navigating-stories/repositories) in the form of an add-on to the Orange3 data mining toolkit with text processing widgets from the project Navigating Stories
+* [a text processing project](https://github.com/orgs/navigating-stories/repositories) in the form of an add-on to the Orange3 data mining toolkit with text processing widgets from the project Navigating Stories
   
   <br/>
 

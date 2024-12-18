@@ -103,6 +103,7 @@
 * [a new Jasp module](https://github.com/jasp-stats/jaspProcess) for conditional process modeling 
 * [a computer vision project](https://github.com/DecodingRafael/SIFT) for analyzing and comparing paintings from Raphael with opencv and instance segmentation
 * [a text processing project](https://github.com/orgs/navigating-stories/repositories) in the form of an add-on to the Orange3 data mining toolkit with text processing widgets from the project Navigating Stories
+* * [a forecasting project](https://github.com/ESI-FAR) in the domain of energy transmission
   
   <br/>
 

@@ -97,7 +97,7 @@
 
 <br/>
 
-## I'm currently working (or recently worked) on projects involving:
+## I'm currently working (or recently worked) on:
 
 * [the American Revolution](https://github.com/h-gear/revolution/tree/main) applying temporal social network analysis and NLP 
 * [a new Jasp module](https://github.com/jasp-stats/jaspProcess) for conditional process modeling 

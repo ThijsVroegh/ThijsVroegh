@@ -65,7 +65,7 @@
  ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to learn new features everyday<br/><br/> 
  👀 &emsp; My interests are applied statistics, natural language processing, and programming in research (R and Python)  <br/><br/>
- 📧 &emsp; Reach me at t.vroegh@esciencecenter.nl<br/><br/>
+ 📧 &emsp; Reach me at thijs_vroegh @ hotmail.com<br/><br/>
  💬 &emsp; Or ask me about anything [here](https://github.com/ThijsVroegh/ThijsVroegh/issues)
 
 </p>

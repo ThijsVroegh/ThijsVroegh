@@ -31,7 +31,7 @@
     <a href="https://www.google.com/search?q=Thijs+Vroegh">「 Google Me 」</a>
     <br>
     <br>
-    I am a research software engineer at the <b>Netherlands eScience Center<b> in the section of Social Sciences and Humanities.
+    I am a software developer at <b>Statistics Netherlands<b> in the Hague, section Environment.
     <br>
     <br>
   </samp>
